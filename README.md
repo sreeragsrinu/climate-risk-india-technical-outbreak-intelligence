@@ -28,13 +28,6 @@ ClimateRisk India is a sophisticated outbreak prediction system that leverages e
 - **Icons**: Lucide React
 - **Data Processing**: PapaParse, XLSX
 
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/climate-risk-india.git
-   cd climate-risk-india
-
 
    ## 📸 Dashboard Preview
 
