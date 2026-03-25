@@ -45,3 +45,6 @@ ClimateRisk India is a sophisticated outbreak prediction system that leverages e
 
 ### Trends & Insights
 ![Trends](assets/dashboard5.png)
+
+### Merged Dataset
+https://docs.google.com/spreadsheets/d/171LL7-rklLbkaxHuOp_CZH-Wzg9MITMg/edit?usp=sharing&ouid=106689345318229037692&rtpof=true&sd=true
