@@ -1,0 +1,7 @@
+{
+  "name": "Climate-Aware Disease Outbreak Prediction (India)New",
+  "description": "Predicts disease outbreak risks in India based on real-time climate data and historical patterns using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
