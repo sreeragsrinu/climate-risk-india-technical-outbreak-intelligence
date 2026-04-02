@@ -34,16 +34,12 @@ ClimateRisk India is a sophisticated outbreak prediction system that leverages e
 ### Main Dashboard
 ![Dashboard](assets/dashboard.png)
 
-### Disease Analysis
 ![Analysis](assets/dasboard2.png)
 
-### Dataset Mode
 ![Dataset](assets/dashboard3.png)
 
-### Model Performance
-![Performance](assets/dashboard4.png)
+![Performance](assets/dashboard4..png)
 
-### Trends & Insights
 ![Trends](assets/dashboard5.png)
 
 ### Merged Dataset
